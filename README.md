@@ -3,8 +3,6 @@
 An AI-powered Movie Recommendation System that suggests movies based on similarity between movie features.
 This project demonstrates how Machine Learning and Data Processing can be used to build intelligent recommendation engines like those used by Netflix or Amazon.
 
-🚀 Live Preview
-       <img src="https://user-images.githubusercontent.com/placeholder/movie-demo.gif" width="800">
        
 📌 Features
 
@@ -28,7 +26,11 @@ This project demonstrates how Machine Learning and Data Processing can be used t
     
     Built with an easy-to-use interface
 
+    
+
 🛠️ Tech Stack
+
+
       Technology	Usage
       Python	Backend Logic
       Pandas	Data Processing
@@ -39,6 +41,9 @@ This project demonstrates how Machine Learning and Data Processing can be used t
 
       
 📂 Project Structure
+
+
+
         movie-recommendation
         │
         ├── app.py                # Streamlit web app
@@ -48,6 +53,9 @@ This project demonstrates how Machine Learning and Data Processing can be used t
         ├── README.md            # Project documentation
         └── screenshots
             └── preview.png
+
+
+            
 ⚙️ Installation
 
   Clone the repository from GitHub
@@ -93,11 +101,7 @@ Steps:
     
     This approach recommends movies with similar genres, keywords, and metadata.
 
-📸 Screenshots
-          Home Page
-          <img src="screenshots/home.png" width="800">
-          Recommendations
-          <img src="screenshots/recommendations.png" width="800">
+
           
 🌟 Future Improvements
 
@@ -105,6 +109,3 @@ Steps:
     
     Deep learning recommendation model
 
-Hybrid recommendation system
-
-Movie rating system
